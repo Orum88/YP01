@@ -12,6 +12,10 @@
 		font-family: "Noto_Sans", sans-serif;
 		font-weight: 600;
 		border: 1px;
+
+		:hover {
+			opacity: .6;
+		}
 }
 	&__subheader {
 		display: block;
@@ -26,6 +30,10 @@
 		line-height: 14.4px;
 		font-family: "Noto_Sans", sans-serif;
 		font-weight: 500;
+
+		:hover {
+			opacity: .6;
+		}
 	}
 
 	&__close {
