@@ -12,8 +12,13 @@
 
 	&__gallery-image {
 		width: 320px;
-		height: 320px;
+		height: 415px;
 		border-radius: 15px;
+
+		&_card {
+			width: 320px;
+			height: 320px;
+		}
 	}
 
 	&__gallery-slide {

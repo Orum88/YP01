@@ -21,6 +21,12 @@
 		align-items: center;
 	}
 
+	@media screen and (max-width: 1440px){
+		&__image-mobile {
+			display: none;
+		}
+	}
+
 	@media screen and (max-width: 768px){
 		&__image {
 			margin-left: -440px;
